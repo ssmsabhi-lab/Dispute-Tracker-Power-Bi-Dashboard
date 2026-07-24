@@ -26,5 +26,9 @@ This Power BI dashboard is designed to monitor and analyze ATM dispute cases. It
 - CRA performance
 - Dynamic filtering
 
+## Dashboard Preview
+<img width="1317" height="737" alt="image" src="https://github.com/user-attachments/assets/de9ff99b-f911-4d33-bc0d-ad2be1a58c28" />
+
+
 ## Author
 Abhijeet Ashok Chavan
